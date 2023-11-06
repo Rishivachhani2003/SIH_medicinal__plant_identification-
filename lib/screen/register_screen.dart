@@ -9,7 +9,7 @@ import 'package:sih/controller/authentication_repository.dart';
 import 'package:sih/controller/signup_controller.dart';
 import 'package:sih/controller/user_repository.dart';
 import 'package:sih/models/user_model.dart';
-import 'package:sih/screen/home_screen.dart';
+import 'package:sih/screen/home/home_screen.dart';
 import 'package:sih/screen/login_screen.dart';
 import 'package:sih/services/local_notification.dart';
 

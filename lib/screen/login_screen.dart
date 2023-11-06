@@ -8,7 +8,7 @@ import 'package:sih/animation/fadeanimation.dart';
 import 'package:sih/controller/authentication_repository.dart';
 import 'package:sih/controller/login_controller.dart';
 import 'package:sih/screen/forget_screen.dart';
-import 'package:sih/screen/home_screen.dart';
+import 'package:sih/screen/home/home_screen.dart';
 import 'package:sih/screen/register_screen.dart';
 
 class LoginScreen extends StatefulWidget {

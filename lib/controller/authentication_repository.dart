@@ -5,7 +5,7 @@ import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:sih/consts/firebase_consts.dart';
-import 'package:sih/screen/home_screen.dart';
+import 'package:sih/screen/home/home_screen.dart';
 import 'package:sih/screen/splash_screen.dart';
 
 class AuthenticationRepository extends GetxController {
